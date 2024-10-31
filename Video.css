@@ -1,0 +1,78 @@
+body{
+	background:hsla(0,0%,94%,1.00);
+}
+h1{
+	background: white;
+	margin: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+#sleep{
+	margin-right: 30px;
+}
+b{
+    font-size: 50px;
+ }
+#pb{
+	width:60%;
+	margin-left: 5px;
+}
+video {
+	width:80%;
+	margin-left: 160px;
+}
+#back{
+	font-family:"Webdings",serif;
+	font-size: 38px;
+	margin-left: 190px;
+	border-style:none;
+	background:hsla(0,0%,94%,1.00);
+}
+#start{
+	font-family:"Webdings",serif;
+	font-size: 38px;
+	background:hsla(0,0%,94%,1.00);
+	border-style:none;
+}
+#go{
+	font-family:"Webdings",serif;
+	font-size: 38px;
+	background:hsla(0,0%,94%,1.00);
+	border-style:none;
+	
+}
+#select{
+	font-size: 20px;
+	margin-left: 1435px;
+	background:hsla(0,0%,96%,1.00);
+	border-style:none;
+	border-style: outset;
+	width:225px;
+}
+#mute {
+	font-family:"Webdings",serif;
+	border-style:none;
+	background:hsla(0,0%,94%,1.00);
+	font-size: 38px;	
+}
+#crtime{
+	margin-left: 250px;
+}
+#text{
+	font-size:18px;
+	margin-left: 270px
+}
+#ok{
+	font-size:18px;
+}
+#download{
+	font-size: 20px;
+	position:absolute;
+	background:hsla(0,0%,96%,1.00);
+	border-style:none;
+	border-style: outset;
+	width:150px;
+	margin-left:50px;
+	margin-top:3px;
+}
